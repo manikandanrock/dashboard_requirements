@@ -64,6 +64,11 @@ cd frontend
 npm install
 npm start
 ```
+### Our System Specifications
+```sh
+Python- 3.12.6
+Node.js- 22.14.0
+```
 
 
 
