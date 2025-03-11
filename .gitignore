@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment Variables
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and cache
+logs/
+*.log
+.cache/
+.DS_Store
+
+# Build and Output Files
+dist/
+build/
+uploads/
+
+# VS Code settings
+.vscode/
