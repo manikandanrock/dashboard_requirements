@@ -48,21 +48,22 @@ This project is an AI-powered tool that extracts and classifies requirements fro
 ### Backend Setup
 
 ```sh
-New Terminal 2
+# New Terminal 2
 
-venv\Scripts\activate
-cd backend
-cd ai_service
-flask run --host=0.0.0.0 --port=5000
+> venv\Scripts\activate
+> cd backend
+> cd ai_service
+> flask run --host=0.0.0.0 --port=5000
 ```
 
 ### Frontend Setup
 
 ```sh
-New Terminal 3
-cd frontend
-npm install
-npm start
+#New Terminal 3
+
+> cd frontend
+> npm install
+> npm start
 ```
 ### Our System Specifications
 ```sh
