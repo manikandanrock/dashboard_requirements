@@ -65,32 +65,5 @@ npm install
 npm start
 ```
 
-## API Endpoints
 
-### Upload File
-
-`POST /api/upload`
-
-- **Request:** Multipart file upload
-- **Response:** JSON with uploaded filename
-
-### Analyze File
-
-`POST /api/analyze`
-
-- **Request:** `{ "filename": "example.pdf" }`
-- **Response:** Extracted and classified requirements
-
-## Deployment
-
-- Use **Vercel** for frontend deployment.
-- Use **Flask + Gunicorn** for backend hosting.
-
-## Contributing
-
-Feel free to submit pull requests and report issues.
-
-## License
-
-MIT License
 
