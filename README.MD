@@ -39,11 +39,11 @@ This project is an AI-powered tool that extracts and classifies requirements fro
 ### Creating virtual environmnet and installing necessary packages
 
 ```sh
-New Terminal 1   
+# New Terminal 1   
 
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
+> python -m venv venv
+> venv\Scripts\activate
+> pip install -r requirements.txt
 ```
 ### Backend Setup
 
